@@ -14,3 +14,5 @@
 
 7. `git branch`: This command allows you to manage branches in your Git repository. A branch is like a separate line of development that allows you to work on different features or bug fixes without affecting the main codebase. This command lets you create new branches, list existing branches, switch between branches, and delete branches.
 
+References
+ChatGPT
